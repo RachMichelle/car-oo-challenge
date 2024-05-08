@@ -54,5 +54,6 @@ class Garage {
         else {
             this.vehicles.push(newVehicle);
         }
+        return 'Vehicle added!'
     }
 }
